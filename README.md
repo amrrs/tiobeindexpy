@@ -21,11 +21,29 @@ pip install tiobeindexpy
 
 ### Example
 
-To extract Top 20 Programming Languges by TIOBE Index
+**To extract Top 20 Programming Languges by TIOBE Index**
+
+```python
+
+from tiobeindexpy import tiobeindexpy as tb
+
+tb.top_20()
+
+```
+
+**To extract Top 50 Programming Languges by TIOBE Index**
 
 ```python
 from tiobeindexpy import tiobeindexpy as tb
-tb.top_20()
+tb.top_50()
 ```
+
+**Extract Hall of Fame of Programming Languges**
+
+```python
+from tiobeindexpy import tiobeindexpy as tb
+tb.hall_of_fame()
+```
+
 
 Courtesy: https://www.tiobe.com/tiobe-index/
