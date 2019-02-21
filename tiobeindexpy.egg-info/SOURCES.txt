@@ -1,0 +1,10 @@
+README.md
+setup.py
+tiobeindexpy/__init__.py
+tiobeindexpy/tiobeindexpy.py
+tiobeindexpy.egg-info/PKG-INFO
+tiobeindexpy.egg-info/SOURCES.txt
+tiobeindexpy.egg-info/dependency_links.txt
+tiobeindexpy.egg-info/not-zip-safe
+tiobeindexpy.egg-info/requires.txt
+tiobeindexpy.egg-info/top_level.txt

@@ -1,0 +1,37 @@
+Metadata-Version: 1.0
+Name: tiobeindexpy
+Version: 1.0.0
+Summary: A Python package for getting TIOBE Index
+Home-page: https://github.com/amrrs/tiobeindexpy
+Author: AbdulMajedRaja RS
+Author-email: amrrs.data@gmail.com
+License: MIT
+Description: # tiobeindexpy
+        
+        A Python package to extract TIOBE Index (Programming Rankings)
+        
+        ### Dependencies
+        
+        + requests
+        + beautifulsoup4
+        + pandas
+        
+        ### Installation
+        
+        ```python
+        pip install tiobeindexpy
+        ```
+        
+        ### Example
+        
+        To extract Top 20 Programming Languges by TIOBE Index
+        
+        ```python
+        from tiobeindexpy import tiobeindexpy as tb
+        tb.top_20()
+        ```
+        
+        Courtesy: https://www.tiobe.com/tiobe-index/
+        
+Keywords: tiobe,programming language ranking,index,programming language
+Platform: UNKNOWN
