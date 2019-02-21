@@ -2,8 +2,8 @@
 
 
 [![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/amrs/tiobeindexpy/master/LICENSE.txt)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/pycountwc.svg)](https://pypi.org/project/tiobeindexpy/)
-[![PyPI](https://img.shields.io/pypi/v/pycountwc.svg)](https://pypi.org/project/tiobeindexpy/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/tiobeindexpy.svg)](https://pypi.org/project/tiobeindexpy/)
+[![PyPI](https://img.shields.io/pypi/v/tiobeindexpy.svg)](https://pypi.org/project/tiobeindexpy/)
 
 A Python package to extract TIOBE Index (Programming Rankings)
 
